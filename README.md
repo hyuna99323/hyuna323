@@ -8,10 +8,10 @@
   
 
 ### ✨ Skill Set
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" style="max-width: 100px"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" style="max-width: 100px"> <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="max-width= 100px"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="max-width: 100px">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge%22&logo=HTML5&logoColor=white" style="max-width: 100px"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge%22&logo=CSS3&logoColor=white" style="max-width: 100px"> <img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge%22&logo=sass&logoColor=white" style="max-width= 100px"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge%22&logo=javascript&logoColor=black" style="max-width: 100px"> <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge%22" style="max-width: 100px">
   
 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" style="max-width: 100px"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white" style="max-width: 100px">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge%22&logo=Visual Studio Code&logoColor=white" style="max-width: 100px"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge%22&logo=Figma&logoColor=white" style="max-width: 100px">
   
   
   
