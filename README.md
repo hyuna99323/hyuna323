@@ -20,7 +20,7 @@
 <address> <a href="https://hyuna323.github.io/hyuna_portfolio/">PORTFOILO</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/ediya_project/">EDIYA Project</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/ohou_project/">오늘의집(ohou) project</a> </address> <br />
-<address> <a href="https://hyuna323.github.io/ohou_project/">을지로 OF project</a> </address>
+<address> <a href="https://hyuna323.github.io/OF_project/">을지로 OF project</a> </address>
 
 ### 🖥 Operating System
 <img src="https://img.shields.io/badge/os-macOS-green">
