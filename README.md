@@ -17,7 +17,7 @@
   
 
 ### 🧾 My Portfoilo
-<address> <a href="https://hyuna323.github.io/hyuna_portfolio/">PORTFOILO</a> </address> <br />
+<address> <a href="https://hyuna323.github.io/portfolio/">PORTFOILO</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/ediya_project/">EDIYA Project</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/ohou_project/">오늘의집(ohou) project</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/OF_project/">을지로 OF project</a> </address> <br />
