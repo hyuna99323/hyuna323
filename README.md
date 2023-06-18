@@ -17,11 +17,12 @@
   
 
 ### 🧾 My Portfoilo
-<address> <a href="https://hyuna323.github.io/portfolio/">PORTFOILO</a> </address> <br />
+<address> <a href="https://hyuna323.github.io/portfolio2/">portfolio ver.2 learning</a> </address> <br />
+<address> <a href="https://hyuna323.github.io/portfolio/">portfolio ver.1</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/ediya_project/">EDIYA Project</a> </address> <br />
 <address> <a href="https://hyuna323.github.io/ohou_project/">오늘의집(ohou) project</a> </address> <br />
-<address> <a href="https://hyuna323.github.io/OF_project/">을지로 OF project</a> </address> <br />
-<address> <a href="https://hyuna323.github.io/interactive_learning/">INTERACTIVE 페이지 제작 learning</a> </address>
+<address> <a href="https://hyuna323.github.io/interactive_learning/">INTERACTIVE 페이지 제작 learning</a> </address> <br />
+
 
 ### 🖥 Operating System
 <img src="https://img.shields.io/badge/os-macOS-green">
